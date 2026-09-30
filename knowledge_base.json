@@ -1,0 +1,23 @@
+{
+  "domain": "SolvRisk AI",
+  "subtitle": "Basel IV Capital Requirements, PD, LGD & EAD Modeling",
+  "glossary": [
+    {
+      "term": "RWA",
+      "definition": "Risk-Weighted Assets; exposures scaled by regulatory risk weights to determine minimum capital requirements."
+    },
+    {
+      "term": "ECL",
+      "definition": "Expected Credit Loss; a forward-looking loss allowance model required under IFRS 9."
+    },
+    {
+      "term": "LGD",
+      "definition": "Loss Given Default; the proportion of exposure not recovered if a borrower defaults."
+    }
+  ],
+  "starter_prompts": [
+    "Calculate risk-weighted assets (RWA)",
+    "Estimate lifetime ECL under IFRS 9",
+    "Model Probability of Default curve"
+  ]
+}
